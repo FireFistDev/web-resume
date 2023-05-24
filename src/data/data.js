@@ -1,6 +1,6 @@
 import firkify from '../assets/projects/Forkify.png'
 import milionare from '../assets/projects/milionare.png'
-import socialNetwork from '../assets/projects/Screenshot 2023-05-24 133440.png'
+import socialNetwork from '../assets/projects/socialnetwork.png'
 export const data=[
     {
         id:1,
